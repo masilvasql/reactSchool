@@ -1,0 +1,17 @@
+.container Label{
+    font-weight: bold;
+    margin-top: 15px;
+}
+.divSexo{
+    display: flex;
+    flex-direction: row;
+}
+
+.alinhaCheck{
+    margin-left: 10px;
+}
+
+.divAlinhaBtns{
+    display: flex;
+    justify-content: space-between;
+}

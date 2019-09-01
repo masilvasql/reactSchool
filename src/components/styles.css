@@ -1,0 +1,53 @@
+.logo {
+    width: 100px;
+    height: 50px;
+    transition: all .2s;
+}
+
+.logo:hover {
+    width: 115px;
+    height: 50px;
+}
+
+.divLogo{
+    display: flex;
+    flex-direction: row;
+}
+
+.divTitulo{
+    color: aliceblue;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.navLink h3{
+    font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+    transition: 1.2 all;
+}
+
+.navLink h3 {
+    font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+    transition: 0.5s all;
+}
+.navLink h3:hover{
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.labelDetalhes{
+    font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+    transition: 0.5s all;
+}
+
+.labelDetalhes:hover{
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+}

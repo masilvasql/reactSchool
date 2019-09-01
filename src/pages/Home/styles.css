@@ -1,0 +1,35 @@
+.divPrincipalI{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    flex-wrap: wrap;
+}
+
+.divImg{
+    display: flex;
+    justify-content: center;
+}
+
+.imgsCard{
+    width: 120px;
+    height: 120px;
+    padding: 5px;
+}
+
+.divCard{
+    box-shadow: 1px 1px 1px 1px lightgray;
+    border-radius: 10px;
+    transition: all .2s;
+    margin-top: 10px;
+}
+
+.divCard:hover{
+    color: aqua;
+    font-weight: bold;
+    box-shadow: 2px 2px 2px 2px aqua;
+    cursor: pointer;
+    font-size: 15px;
+    border-radius: 10px;
+}
