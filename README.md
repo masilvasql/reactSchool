@@ -4,6 +4,8 @@ Projeto para fins de estudo.
 
 Projeto preparado para receber dados de um servidor REST
 
+O Servidor utilizado como base, pode ser visto neste link : https://github.com/masilvasql/NodeWithSqlServer
+
 # NPM's utilizadas
 #### * axios       < ---------- > npm i --save axios 
 #### * bootstrap   < ------------- >  npm i --save bootstrap
