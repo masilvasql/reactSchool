@@ -6,12 +6,15 @@ Projeto preparado para receber dados de um servidor REST
 
 O Servidor utilizado como base, pode ser visto neste link : https://github.com/masilvasql/NodeWithSqlServer
 
-# NPM's utilizadas
-#### * axios       < ---------- > npm i --save axios 
-#### * bootstrap   < ------------- >  npm i --save bootstrap
-#### * react-router-dom <--------> npm i --save react-router-dom
-#### * react-toasts <----> npm i --save react-toasts
-#### * reactstrap  <-----> npm i --save reactstrap
+## NPM's utilizadas
+
+NPM               |Comando
+------------------|-------
+axios             |npm i --save axios 
+bootstrap         |npm i --save bootstrap
+react-router-dom  |npm i --save react-router-dom
+react-toasts      |npm i --save react-toasts
+reactstrap        |npm i --save reactstrap
 
 ![react1](https://user-images.githubusercontent.com/39570139/64082468-e4d12680-cce5-11e9-8d38-69df80857477.png)
 ![react2](https://user-images.githubusercontent.com/39570139/64082471-ee5a8e80-cce5-11e9-9f04-c9f02a035dd0.png)
